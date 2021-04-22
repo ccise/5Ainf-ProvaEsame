@@ -25,3 +25,7 @@ Resta da stabilire la modalità di autenticazione di accesso alla rete da parte 
 Sul server si ipotizza sia presente un indirizzo apparte per la farmacia per la gestione delle richieste. La farmacia non avrà accesso alla inserimento dei dati all'interno del database ma si limiterà a visualizzare le richieste e confermare l'invio dei medici richiesti o inserirne un commento in caso di assenza del farmaco.
 
 Si ipotizza che la lunghezza massima del cavo lan tra il router e gli switch, tra due witch, tra uno switch e gli access point non possa superare la lunghezza di 50 per non avere perdite di segnale e di dati.
+
+Si ipotizza che un Access point può normalmente comunicare con circa 30 client nel raggio di circa 100 m, tenendo conto che il segnale possa diminuire con delle interferenze
+
+Si ipotizza che il router sia posizionato in sala server e sarà accessibile solo dagli amministratori di rete
